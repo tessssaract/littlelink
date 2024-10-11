@@ -383,7 +383,6 @@ button:hover,
 .button.button-github {
   color: #ffffff;
   background-color: #000000;
-  border: 1px solid #FFFFFF;
 }
 .button.button-github:hover,
 .button.button-github:focus {
@@ -1075,5 +1074,45 @@ button:hover,
 }
 .button.button-zoom:hover,
 .button.button-zoom:focus {
+  filter: brightness(90%);
+}
+
+/* YouTube Alt */
+.button.button-yt-alt {
+  color: #ffffff;
+  background-color: #282828;
+}
+.button.button-yt-alt:hover,
+.button.button-yt-alt:focus {
+  filter: brightness(90%);
+}
+
+/* sendou.ink */
+.button.button-sendou {
+  color: #ffffff;
+  background-color: #02011E;
+}
+.button.button-sendou:hover,
+.button.button-sendou:focus {
+  filter: brightness(90%);
+}
+
+/* pronouns.cc */
+.button.button-pronounscc {
+  color: #ffffff;
+  background-color: #212529;
+}
+.button.button-pronounscc:hover,
+.button.button-pronounscc:focus {
+  filter: brightness(95%);
+}
+
+/* stat.ink */
+.button.button-stat {
+  color: #000000;
+  background-color: #F5F5F5;
+}
+.button.button-stat:hover,
+.button.button-stat-alt:focus {
   filter: brightness(90%);
 }
