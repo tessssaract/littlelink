@@ -1116,3 +1116,12 @@ button:hover,
 .button.button-stat-alt:focus {
   filter: brightness(90%);
 }
+
+.button.button-minecraft {
+  color: #FFFFFF;
+  background-color: #51A434;
+}
+.button.button-default:hover,
+.button.button-default:focus {
+  filter: brightness(90%);
+}
