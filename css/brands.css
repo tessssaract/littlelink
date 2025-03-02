@@ -1125,3 +1125,12 @@ button:hover,
 .button.button-default:focus {
   filter: brightness(90%);
 }
+
+.button.button-broadcast-box {
+  color: #FFFFFF;
+  background-color: #0F172B;
+}
+.button.button-default:hover,
+.button.button-default:focus {
+  filter: brightness(90%);
+}

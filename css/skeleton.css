@@ -87,11 +87,11 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 
 html {
   font-size: 100%;
-  background-color: #173F35;
+  background-color: #003950;
 }
 h1 {
   font-size: 100%;
-  color: #DA9995;
+  color: #FFCEFB;
 }
 body {
   font-size: 18px;
@@ -99,7 +99,7 @@ body {
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
     sans-serif;
-  color: #E9E0D2;
+  color: #00E4FF;
 }
 
 /* Typography
@@ -130,7 +130,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #4899F7;
+  color: #FFCEFB;
 }
 a:hover {
   color: #7AB8FF;
