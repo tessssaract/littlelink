@@ -12,8 +12,10 @@ Custom buttons for the following services:
 - pronouns.cc
 - stat.ink
 - YouTube (dark theme)
+- BlueMap
+- Broadcast Box
 
 ### Deployment
-My site is automatically built from the latest commit with Vercel, and LittleLink's developer has an [excellent guide](https://youtu.be/mzI770VPIDw) demonstrating the process. My homepage is not friendly to forking as I've removed irrelevant CSS, but feel free to fork it and utilize my custom buttons and formatting.
+My site is automatically built from the latest commit with Vercel, and LittleLink's developer has an [excellent guide](https://youtu.be/mzI770VPIDw) demonstrating the process. My homepage is not friendly to forking as I've removed irrelevant CSS, but still feel free to build off it. 
 
 [![Deploy to Vercel](https://cdn.cottle.cloud/littlelink/button-deploy-vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsethcottle%2Flittlelink&project-name=littlelink&repository-name=littlelink)
